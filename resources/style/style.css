@@ -3,7 +3,7 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 body {
 	background: linear-gradient(#d8d4d2,#f4f2f2);
 	min-height: 100vh;
-	font-size: 16px;
+	font-size: 18px;
 	color: #4c4c4c;
 	font-family: "Avenir", Gill Sans, Gotham, Helvetica, Arial, sans-serif;
 }
